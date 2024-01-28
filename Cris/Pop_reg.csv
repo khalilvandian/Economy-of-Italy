@@ -1,0 +1,421 @@
+Territory,TIME,Value
+Abruzzo,2001,1262392
+Abruzzo,2002,1262187
+Abruzzo,2003,1267633
+Abruzzo,2004,1278658
+Abruzzo,2005,1287157
+Abruzzo,2006,1292999
+Abruzzo,2007,1296869
+Abruzzo,2008,1311307
+Abruzzo,2009,1321887
+Abruzzo,2010,1326015
+Abruzzo,2011,1329220
+Abruzzo,2012,1331624
+Abruzzo,2013,1332583
+Abruzzo,2014,1329918
+Abruzzo,2015,1325836
+Abruzzo,2016,1319294
+Abruzzo,2017,1313930
+Abruzzo,2018,1306059
+Abruzzo,2019,1300645
+Abruzzo,2020,1293941
+Abruzzo,2021,1281012
+Basilicata,2001,597768
+Basilicata,2002,597103
+Basilicata,2003,595269
+Basilicata,2004,594505
+Basilicata,2005,593185
+Basilicata,2006,590111
+Basilicata,2007,586531
+Basilicata,2008,586093
+Basilicata,2009,584910
+Basilicata,2010,582618
+Basilicata,2011,580790
+Basilicata,2012,579360
+Basilicata,2013,577550
+Basilicata,2014,575814
+Basilicata,2015,573236
+Basilicata,2016,569887
+Basilicata,2017,566405
+Basilicata,2018,562968
+Basilicata,2019,558587
+Basilicata,2020,553254
+Basilicata,2021,545130
+Calabria,2001,2011466
+Calabria,2002,2008185
+Calabria,2003,1999767
+Calabria,2004,2000597
+Calabria,2005,1992027
+Calabria,2006,1981950
+Calabria,2007,1971937
+Calabria,2008,1979067
+Calabria,2009,1976547
+Calabria,2010,1973624
+Calabria,2011,1972049
+Calabria,2012,1968536
+Calabria,2013,1962430
+Calabria,2014,1958226
+Calabria,2015,1951733
+Calabria,2016,1943085
+Calabria,2017,1935097
+Calabria,2018,1924257
+Calabria,2019,1912021
+Calabria,2020,1894110
+Calabria,2021,1860601
+Campania,2001,5701931
+Campania,2002,5699962
+Campania,2003,5704903
+Campania,2004,5731441
+Campania,2005,5759450
+Campania,2006,5763419
+Campania,2007,5766263
+Campania,2008,5785045
+Campania,2009,5792087
+Campania,2010,5807464
+Campania,2011,5822827
+Campania,2012,5827593
+Campania,2013,5820430
+Campania,2014,5812768
+Campania,2015,5804370
+Campania,2016,5790783
+Campania,2017,5776654
+Campania,2018,5762889
+Campania,2019,5740291
+Campania,2020,5712143
+Campania,2021,5624260
+Emilia-Romagna,2001,4000703
+Emilia-Romagna,2002,4003078
+Emilia-Romagna,2003,4034435
+Emilia-Romagna,2004,4080856
+Emilia-Romagna,2005,4129525
+Emilia-Romagna,2006,4162981
+Emilia-Romagna,2007,4194959
+Emilia-Romagna,2008,4246741
+Emilia-Romagna,2009,4305949
+Emilia-Romagna,2010,4340491
+Emilia-Romagna,2011,4371595
+Emilia-Romagna,2012,4391314
+Emilia-Romagna,2013,4415458
+Emilia-Romagna,2014,4432241
+Emilia-Romagna,2015,4434377
+Emilia-Romagna,2016,4435480
+Emilia-Romagna,2017,4439768
+Emilia-Romagna,2018,4445920
+Emilia-Romagna,2019,4459453
+Emilia-Romagna,2020,4464119
+Emilia-Romagna,2021,4438937
+Friuli-Venezia Giulia,2001,1185123
+Friuli-Venezia Giulia,2002,1184713
+Friuli-Venezia Giulia,2003,1190100
+Friuli-Venezia Giulia,2004,1196333
+Friuli-Venezia Giulia,2005,1201350
+Friuli-Venezia Giulia,2006,1203848
+Friuli-Venezia Giulia,2007,1208130
+Friuli-Venezia Giulia,2008,1217059
+Friuli-Venezia Giulia,2009,1224653
+Friuli-Venezia Giulia,2010,1225910
+Friuli-Venezia Giulia,2011,1225361
+Friuli-Venezia Giulia,2012,1223642
+Friuli-Venezia Giulia,2013,1224987
+Friuli-Venezia Giulia,2014,1224984
+Friuli-Venezia Giulia,2015,1221664
+Friuli-Venezia Giulia,2016,1216208
+Friuli-Venezia Giulia,2017,1212809
+Friuli-Venezia Giulia,2018,1211155
+Friuli-Venezia Giulia,2019,1210414
+Friuli-Venezia Giulia,2020,1206216
+Friuli-Venezia Giulia,2021,1201510
+Lazio,2001,5112413
+Lazio,2002,5117783
+Lazio,2003,5139164
+Lazio,2004,5186338
+Lazio,2005,5240603
+Lazio,2006,5277353
+Lazio,2007,5322929
+Lazio,2008,5394010
+Lazio,2009,5461999
+Lazio,2010,5516026
+Lazio,2011,5563046
+Lazio,2012,5605706
+Lazio,2013,5678764
+Lazio,2014,5723955
+Lazio,2015,5744899
+Lazio,2016,5761508
+Lazio,2017,5774092
+Lazio,2018,5774606
+Lazio,2019,5773076
+Lazio,2020,5755700
+Lazio,2021,5730399
+Liguria,2001,1571783
+Liguria,2002,1570152
+Liguria,2003,1568193
+Liguria,2004,1572910
+Liguria,2005,1580613
+Liguria,2006,1580900
+Liguria,2007,1580814
+Liguria,2008,1583449
+Liguria,2009,1589802
+Liguria,2010,1591537
+Liguria,2011,1592593
+Liguria,2012,1590096
+Liguria,2013,1587322
+Liguria,2014,1580322
+Liguria,2015,1569427
+Liguria,2016,1557742
+Liguria,2017,1551379
+Liguria,2018,1541541
+Liguria,2019,1532980
+Liguria,2020,1524826
+Liguria,2021,1518495
+Lombardia,2001,9032554
+Lombardia,2002,9033909
+Lombardia,2003,9082295
+Lombardia,2004,9173501
+Lombardia,2005,9299835
+Lombardia,2006,9370827
+Lombardia,2007,9431541
+Lombardia,2008,9517477
+Lombardia,2009,9603804
+Lombardia,2010,9670614
+Lombardia,2011,9746113
+Lombardia,2012,9811011
+Lombardia,2013,9877541
+Lombardia,2014,9929769
+Lombardia,2015,9954769
+Lombardia,2016,9958447
+Lombardia,2017,9970419
+Lombardia,2018,9986962
+Lombardia,2019,10010833
+Lombardia,2020,10027602
+Lombardia,2021,9981554
+Marche,2001,1453224
+Marche,2002,1453413
+Marche,2003,1464080
+Marche,2004,1481118
+Marche,2005,1493103
+Marche,2006,1501891
+Marche,2007,1507981
+Marche,2008,1525274
+Marche,2009,1541254
+Marche,2010,1546800
+Marche,2011,1549616
+Marche,2012,1550010
+Marche,2013,1551668
+Marche,2014,1549478
+Marche,2015,1545869
+Marche,2016,1538442
+Marche,2017,1532460
+Marche,2018,1526331
+Marche,2019,1520321
+Marche,2020,1512672
+Marche,2021,1498236
+Molise,2001,320601
+Molise,2002,320190
+Molise,2003,320381
+Molise,2004,320359
+Molise,2005,319728
+Molise,2006,318452
+Molise,2007,317337
+Molise,2008,317657
+Molise,2009,317082
+Molise,2010,315939
+Molise,2011,314816
+Molise,2012,313916
+Molise,2013,313408
+Molise,2014,312897
+Molise,2015,311398
+Molise,2016,310026
+Molise,2017,308400
+Molise,2018,306564
+Molise,2019,303790
+Molise,2020,300516
+Molise,2021,294294
+Piemonte,2001,4214677
+Piemonte,2002,4212726
+Piemonte,2003,4222134
+Piemonte,2004,4260654
+Piemonte,2005,4284486
+Piemonte,2006,4296203
+Piemonte,2007,4306018
+Piemonte,2008,4358273
+Piemonte,2009,4389110
+Piemonte,2010,4401572
+Piemonte,2011,4410887
+Piemonte,2012,4416745
+Piemonte,2013,4425816
+Piemonte,2014,4420924
+Piemonte,2015,4403562
+Piemonte,2016,4384226
+Piemonte,2017,4370348
+Piemonte,2018,4349911
+Piemonte,2019,4328565
+Piemonte,2020,4311217
+Piemonte,2021,4274945
+Puglia,2001,4020707
+Puglia,2002,4020694
+Puglia,2003,4025113
+Puglia,2004,4034841
+Puglia,2005,4048188
+Puglia,2006,4053780
+Puglia,2007,4057440
+Puglia,2008,4071244
+Puglia,2009,4080149
+Puglia,2010,4090111
+Puglia,2011,4101558
+Puglia,2012,4102797
+Puglia,2013,4090530
+Puglia,2014,4077788
+Puglia,2015,4063269
+Puglia,2016,4043735
+Puglia,2017,4024067
+Puglia,2018,4000966
+Puglia,2019,3975528
+Puglia,2020,3953305
+Puglia,2021,3933777
+Sardegna,2001,1631880
+Sardegna,2002,1630004
+Sardegna,2003,1632083
+Sardegna,2004,1634673
+Sardegna,2005,1637508
+Sardegna,2006,1640194
+Sardegna,2007,1643052
+Sardegna,2008,1649058
+Sardegna,2009,1653129
+Sardegna,2010,1653711
+Sardegna,2011,1655833
+Sardegna,2012,1655079
+Sardegna,2013,1654583
+Sardegna,2014,1652528
+Sardegna,2015,1648642
+Sardegna,2016,1642492
+Sardegna,2017,1636839
+Sardegna,2018,1631040
+Sardegna,2019,1622257
+Sardegna,2020,1611621
+Sardegna,2021,1590044
+Sicilia,2001,4968991
+Sicilia,2002,4967306
+Sicilia,2003,4965390
+Sicilia,2004,4977097
+Sicilia,2005,4985221
+Sicilia,2006,4991319
+Sicilia,2007,4995840
+Sicilia,2008,5015966
+Sicilia,2009,5031436
+Sicilia,2010,5044045
+Sicilia,2011,5059482
+Sicilia,2012,5061946
+Sicilia,2013,5053540
+Sicilia,2014,5041754
+Sicilia,2015,5028266
+Sicilia,2016,5004400
+Sicilia,2017,4977900
+Sicilia,2018,4942188
+Sicilia,2019,4908548
+Sicilia,2020,4875290
+Sicilia,2021,4833705
+Toscana,2001,3497806
+Toscana,2002,3499109
+Toscana,2003,3513273
+Toscana,2004,3543673
+Toscana,2005,3574966
+Toscana,2006,3593492
+Toscana,2007,3610980
+Toscana,2008,3650182
+Toscana,2009,3683362
+Toscana,2010,3706592
+Toscana,2011,3726263
+Toscana,2012,3733535
+Toscana,2013,3743537
+Toscana,2014,3744293
+Toscana,2015,3739044
+Toscana,2016,3726422
+Toscana,2017,3721391
+Toscana,2018,3712048
+Toscana,2019,3701343
+Toscana,2020,3692555
+Toscana,2021,3692865
+Trentino Alto Adige / Südtirol,2001,940016
+Trentino Alto Adige / Südtirol,2002,939634
+Trentino Alto Adige / Südtirol,2003,948355
+Trentino Alto Adige / Südtirol,2004,958462
+Trentino Alto Adige / Südtirol,2005,969916
+Trentino Alto Adige / Südtirol,2006,980115
+Trentino Alto Adige / Südtirol,2007,989294
+Trentino Alto Adige / Südtirol,2008,1001849
+Trentino Alto Adige / Südtirol,2009,1012938
+Trentino Alto Adige / Südtirol,2010,1021981
+Trentino Alto Adige / Südtirol,2011,1030239
+Trentino Alto Adige / Südtirol,2012,1037235
+Trentino Alto Adige / Südtirol,2013,1045054
+Trentino Alto Adige / Südtirol,2014,1052202
+Trentino Alto Adige / Südtirol,2015,1056182
+Trentino Alto Adige / Südtirol,2016,1059765
+Trentino Alto Adige / Südtirol,2017,1063734
+Trentino Alto Adige / Südtirol,2018,1068738
+Trentino Alto Adige / Südtirol,2019,1074034
+Trentino Alto Adige / Südtirol,2020,1078069
+Trentino Alto Adige / Südtirol,2021,1077078
+Umbria,2001,825826
+Umbria,2002,826176
+Umbria,2003,830936
+Umbria,2004,841789
+Umbria,2005,849774
+Umbria,2006,855555
+Umbria,2007,858807
+Umbria,2008,870298
+Umbria,2009,879640
+Umbria,2010,884937
+Umbria,2011,889450
+Umbria,2012,890407
+Umbria,2013,892742
+Umbria,2014,892099
+Umbria,2015,888288
+Umbria,2016,884092
+Umbria,2017,880992
+Umbria,2018,876477
+Umbria,2019,873744
+Umbria,2020,870165
+Umbria,2021,865452
+Valle d'Aosta / Vallée d'Aoste,2001,119548
+Valle d'Aosta / Vallée d'Aoste,2002,119347
+Valle d'Aosta / Vallée d'Aoste,2003,120383
+Valle d'Aosta / Vallée d'Aoste,2004,121692
+Valle d'Aosta / Vallée d'Aoste,2005,122799
+Valle d'Aosta / Vallée d'Aoste,2006,123839
+Valle d'Aosta / Vallée d'Aoste,2007,124636
+Valle d'Aosta / Vallée d'Aoste,2008,125658
+Valle d'Aosta / Vallée d'Aoste,2009,126515
+Valle d'Aosta / Vallée d'Aoste,2010,126957
+Valle d'Aosta / Vallée d'Aoste,2011,127153
+Valle d'Aosta / Vallée d'Aoste,2012,127305
+Valle d'Aosta / Vallée d'Aoste,2013,127951
+Valle d'Aosta / Vallée d'Aoste,2014,128245
+Valle d'Aosta / Vallée d'Aoste,2015,127972
+Valle d'Aosta / Vallée d'Aoste,2016,127030
+Valle d'Aosta / Vallée d'Aoste,2017,126677
+Valle d'Aosta / Vallée d'Aoste,2018,126213
+Valle d'Aosta / Vallée d'Aoste,2019,125653
+Valle d'Aosta / Vallée d'Aoste,2020,125034
+Valle d'Aosta / Vallée d'Aoste,2021,124089
+Veneto,2001,4526335
+Veneto,2002,4527599
+Veneto,2003,4562491
+Veneto,2004,4622493
+Veneto,2005,4674934
+Veneto,2006,4709768
+Veneto,2007,4739367
+Veneto,2008,4796062
+Veneto,2009,4844339
+Veneto,2010,4863372
+Veneto,2011,4879606
+Veneto,2012,4887328
+Veneto,2013,4901415
+Veneto,2014,4905712
+Veneto,2015,4902694
+Veneto,2016,4890648
+Veneto,2017,4883373
+Veneto,2018,4880936
+Veneto,2019,4884590
+Veneto,2020,4879133
+Veneto,2021,4869830
