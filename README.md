@@ -22,7 +22,7 @@ The economic situation of Italy and its population can be analyzed from differen
 
 ## Usage
 
-To explore the visualizations and analysis derived from the provided data, please refer to the Jupyter Notebook or Python scripts available in this repository.
+To explore the visualizations and analysis derived from the provided data, please refer to the Tableau Workbook or the link for the [Visualization Page](https://public.tableau.com/views/DataVisualization_17043001633050/GeneralGlanceoflast2decades?:language=en-US&:display_count=n&:origin=viz_share_link) (also attached to the title) available in this repository.
 
 ## Contributors
 
